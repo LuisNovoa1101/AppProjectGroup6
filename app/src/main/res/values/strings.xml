@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProjectGroup6</string>
+
+    //String MainActivity
+
+    <string name="text_name">Nombre</string>
+    <string name="text_last_name">Apellido</string>
+    <string name="text_email">Correo</string>
+    <string name="text_btn_save">Guardar</string>
+    <string name="text_btn_next">Siguiente</string>
+
+    //String MainActivity2
+
+    <string name="text_title_welcome">Bienvenido</string>
+    <string name="text_btn_volver">Volver</string>
+    <string name="text_btn_motos">MOTOS</string>
+
+    //String Product_Template
+
+    <string name="text_name_product">Moto</string>
+    <string name="text_description_product">Descripcion</string>
+    <string name="text_price_product">Precio</string>
+
+    //String Activity_Productos
+    <string name="text_btn_Volver">Volver</string>
+    <string name="text_btn_Home">Inicio</string>
+
+</resources>
